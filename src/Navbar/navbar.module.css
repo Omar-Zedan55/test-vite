@@ -1,0 +1,8 @@
+.vheight{
+    padding: 20px 0;
+    transition: all .5s;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -ms-transition: all .5s;
+    -o-transition: all .5s;
+}

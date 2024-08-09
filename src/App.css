@@ -1,0 +1,16 @@
+.ms-auto .active {
+    background-color: #1ABC9C;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+p {
+    margin: 0 !important;
+}
